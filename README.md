@@ -3,7 +3,7 @@ This is my **first project** in my machine learning learning journey. It focuses
 
 ## 📌 Project Description
 
-The notebook provides a complete workflow for stock price prediction. It uses historical stock data, processes and visualizes it, applies machine learning models, and evaluates their performance. The goal is to analyze and forecast future stock prices based on past trends.
+The notebook provides a complete workflow for stock price prediction. It uses historical stock data, processes and visualizes it, applies machine learning models, and evaluates their performance. The goal is to analyze and forecast future stock prices based on past trends. I have used 'sp500 stocks' dataset from KAGGLE as my data to the model
 
 ## 🛠️ Features
 
