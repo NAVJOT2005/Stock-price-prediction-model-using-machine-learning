@@ -8,7 +8,7 @@ The notebook provides a complete workflow for stock price prediction. It uses hi
 ## 🛠️ Features
 
 - Data loading and preprocessing using `pandas` and `numpy`
-- Visualization of stock trends with `matplotlib` and `seaborn`
+- Visualization of stock trends with `matplotlib`
 - Feature engineering (technical indicators)
 - Model training with:
   - Linear Regression
