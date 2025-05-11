@@ -1,5 +1,5 @@
 # Stock-price-prediction-model-using-machine-learning
-This is my **first project** in my machine learning learning journey. It focuses on predicting stock prices using historical data and a variety of machine learning algorithms. It focuses on predicting stock prices using historical data and a variety of machine learning algorithms. The project helped me explore data preprocessing, visualization, feature engineering, and model evaluation — all essential parts of a typical ML pipeline.
+This is my first project in my machine learning learning journey. It focuses on predicting stock prices using historical data and a variety of machine learning algorithms. It focuses on predicting stock prices using historical data and a variety of machine learning algorithms. The project helped me explore data preprocessing, visualization, feature engineering, and model evaluation — all essential parts of a typical ML pipeline.
 
 ## 📌 Project Description
 
